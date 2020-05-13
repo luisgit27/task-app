@@ -1,6 +1,6 @@
-# Webpack Starter
+# Task app
 
-Este es el proyecto inicial para crear aplicaciones utilizando webpack
+Este es una aplicacion de tareas
 
 ### Notas:
 
